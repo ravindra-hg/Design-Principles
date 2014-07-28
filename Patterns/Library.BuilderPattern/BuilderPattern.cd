@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library.BuilderPattern.Manufacturer">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manufacturer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Library.BuilderPattern.AndriodPhoneBuilder">
+    <Position X="2.75" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAgAgAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>AndriodPhoneBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Library.BuilderPattern.MobilePhone">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAABAAAAAQAAAAAEAAAAgAAAAAAAAA=</HashCode>
+      <FileName>Phone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Library.BuilderPattern.IMobileBuilder">
+    <Position X="2.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AABAgAgAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPhoneBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
